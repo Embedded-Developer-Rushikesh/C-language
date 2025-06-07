@@ -1,2 +1,1 @@
-# C language
- C language programming for Embedded C
+Developed programs in C using core language constructs such as arrays, structures, loops, and string manipulation. Designed and implemented functions for data processing, memory handling, and user input. Gained hands-on experience with control flow, modular coding, and debugging C programs for efficient and reliable execution.
